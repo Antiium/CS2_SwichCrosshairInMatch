@@ -73,4 +73,4 @@ try:
     with open("output.cfg", "w") as f:
         f.write(info.toConsoleCommands())
 except Exception as error:
-    print(f"解析失败: {error}")
+    print(f"error: {error}")
