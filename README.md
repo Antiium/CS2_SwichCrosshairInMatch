@@ -13,7 +13,7 @@ python3
 ## How to use it
 
 1. put these two files to a folder
-2. open Main.py
+2. open main.py
 3. fllow the request
 4. input the cs crosshair code
 5. copy what it ask you to copy
