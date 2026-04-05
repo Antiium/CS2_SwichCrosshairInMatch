@@ -16,6 +16,10 @@ python3
 
 ## How to use it
 
+0-Now we add a gui version
+u can exec gui.py to execute it, remember to put gui.py in a folder
+
+
 1. put these two files to a folder
 2. open main.py
 3. fllow the request
