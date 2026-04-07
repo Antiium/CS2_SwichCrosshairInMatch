@@ -130,7 +130,4 @@ textIn = tk.Label(window,text='About This:\n'
 textIn.pack()
 startButton = tk.Button(window,text='Start',command=start,width=10,bg='black',fg='white',activebackground='white')
 startButton.pack()
-
-textAu = tk.Label(window, text='By Antiium')
-textAu.place(x=400,y=280)
 window.mainloop()
