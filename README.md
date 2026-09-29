@@ -2,7 +2,12 @@ English | [中文](README_CN.md)
 
 
 
-# CS2 Switch Crosshair In Match
+# CS2 Switch Crosshair In Match(outdated)
+
+This program only supply old format
+This program only supply old format
+This program only supply old format
+
 
 This project can convert CS2 crosshair sharing codes into cfg files that can be used to change the crosshair in-game.
 
